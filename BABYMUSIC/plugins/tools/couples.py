@@ -14,8 +14,8 @@ from BABYMUSIC.mongo.couples_db import _get_image, get_couple
 POLICE = [
     [
         InlineKeyboardButton(
-            text="𓊈❍ 𝗨𝗧𝗧𝗔𝗠 𝗥𝗔𝗧𝗛𝗢𝗥𝗘 ❍𓊉",
-            url=f"https://t.me/+j6FO8pK8IIkxZDU1",
+            text="𓊈❍ 𝗜𝗦𝗧𝗞𝗛𝗔𝗥 𝗢𝗣 ❍𓊉",
+            url=f"https://t.me/CRAZY_OP_02",
         ),
     ],
 ]
